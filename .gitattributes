@@ -1,0 +1,6 @@
+# Set the default behavior to handle all files as text and normalize to LF
+* text=auto eol=lf
+
+# Explicitly force Python and Shell scripts to always use LF line endings
+*.py text eol=lf
+*.sh text eol=lf
