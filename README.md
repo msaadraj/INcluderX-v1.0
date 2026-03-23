@@ -34,7 +34,7 @@ A high-performance RFI/LFI vulnerability scanner for bug bounty hunters and web 
 Clone the repository:
 
 ```bash
-git clone https://github.com/msaadraj/INcluderX
+git clone https://github.com/msaadraj/INcluderX-v1.0
 cd INcluderX
 pip install -r requirements.txt
 chmod +x INcluderX.py
