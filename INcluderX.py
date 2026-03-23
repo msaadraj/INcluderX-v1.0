@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 from Core.LFI import lfi_scanner
 from Core.RFI import test_rfi
